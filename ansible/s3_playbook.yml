@@ -10,7 +10,7 @@
        s3_bucket:
          name: ansible-test
          state: present
-         region: us-east-2
+         region: us-east-1
          versioning: yes
          tags:
            name: test-s3-bucket
