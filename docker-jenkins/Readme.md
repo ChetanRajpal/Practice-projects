@@ -42,22 +42,22 @@
  
  ### 1
  
- <img src="./schreenshots/1.png" alt="Alt text" title="Screenshot 1">
+ <img src="./screenshots/1.png" alt="Alt text" title="Screenshot 1">
  
  ### 2
  
- <img src="./schreenshots/2.png" alt="Alt text" title="Screenshot 2">
+ <img src="./screenshots/2.png" alt="Alt text" title="Screenshot 2">
  
  ### 3
  
- <img src="./schreenshots/3.png" alt="Alt text" title="Screenshot 3">
+ <img src="./screenshots/3.png" alt="Alt text" title="Screenshot 3">
  
  ### 4
  
- <img src="./schreenshots/4.png" alt="Alt text" title="Screenshot 4">
+ <img src="./screenshots/4.png" alt="Alt text" title="Screenshot 4">
  
  ### 5
  
- <img src="./schreenshots/5.png" alt="Alt text" title="Screenshot 5">
+ <img src="./screenshots/5.png" alt="Alt text" title="Screenshot 5">
  
  
