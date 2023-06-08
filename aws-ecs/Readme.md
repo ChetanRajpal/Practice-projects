@@ -34,14 +34,14 @@
  
  ### 6
  
- <img src="./screenshots/5.png" alt="Alt text" title="Screenshot 6">
+ <img src="./screenshots/6.png" alt="Alt text" title="Screenshot 6">
  
  ### 7
  
- <img src="./screenshots/5.png" alt="Alt text" title="Screenshot 7">
+ <img src="./screenshots/7.png" alt="Alt text" title="Screenshot 7">
  
  ### 8
  
- <img src="./screenshots/5.png" alt="Alt text" title="Screenshot 8">
+ <img src="./screenshots/8.png" alt="Alt text" title="Screenshot 8">
  
  
