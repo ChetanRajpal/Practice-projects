@@ -1,0 +1,18 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: test-chetan-portfolio
+spec:
+  selector:
+    matchLabels:
+      name: test-chetan-portfolio
+  template:
+    metadata:
+      labels:
+        name: test-chetan-portfolio
+    spec:
+      containers:
+        - name: app
+          image: krazykrait/portfolio-1.0
+          ports:
+            - containerPort: 80
